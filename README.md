@@ -1,7 +1,7 @@
-# greetingApp_FLASK
-a simple greeting app built with flask, ready to deploy to Heroku
+# Introduction
+a simple greeting from vijayshankar.
 
-![ss]('./q.png')
+![X](images/q.png?raw=true "d")
 <br>
 <br>
 Author: Vijay Shankar
